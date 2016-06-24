@@ -1,6 +1,6 @@
 Final project of Artificial Neural Network class during undergrad CS.
 
-*First version:* accuracy **~95%**.
+**First version:** accuracy *~95%*.
 
 ##MNIST Datasets
 
